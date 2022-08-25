@@ -1,1 +1,1 @@
-# update README file this is the project on how  to setup git and github
+# updated README file how to be up to date in git
